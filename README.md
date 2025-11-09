@@ -56,7 +56,7 @@
 
 1. **克隆项目**
    ```bash
-   git clone https://github.com/your-username/translation-tool.git
+   git clone https://github.com/JackZoo400/translation-tool.git
    cd translation-tool
    ```
 
@@ -278,9 +278,9 @@ export QT_LOGGING_RULES="*.debug=true"
 
 如果您遇到问题，可以通过以下方式获取帮助：
 
-- 📧 邮箱: support@translationtool.com
-- 💬 讨论区: [GitHub Discussions](https://github.com/your-username/translation-tool/discussions)
-- 🐛 问题报告: [GitHub Issues](https://github.com/your-username/translation-tool/issues)
+- 📧 邮箱: JackWhite114514@Outlook.com
+- 💬 讨论区: [GitHub Discussions](https://github.com/JackZoo400/translation-tool/discussions)
+- 🐛 问题报告: [GitHub Issues](https://github.com/JackZoo400/translation-tool/issues)
 
 ## 致谢
 
